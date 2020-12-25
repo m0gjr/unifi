@@ -1,0 +1,1216 @@
+    time.tv_sec:  1608855659
+    time.tv_usec: 815929
+{
+        "anon_id": "818e39e6-4f46-4f",
+        "antenna_table": [
+                {
+                        "default": true,
+                        "id": 4,
+                        "name": "Combined",
+                        "wifi0_gain": 3,
+                        "wifi1_gain": 3
+                }
+        ],
+        "architecture": "mips",
+        "board_rev": 17,
+        "bootid": 1,
+        "bootrom_version": "unifi-v2.0.6.306-ge8871a78",
+        "cfgversion": "?",
+        "country_code": 0,
+        "countrycode_table": [],
+        "default": true,
+        "discovery_response": true,
+        "dualboot": true,
+        "ever_crash": false,
+        "fingerprint": "96:85:96:3f:9e:7f:9b:cc:1f:e1:6a:ff:60:91:1d:c2:f7:b9:02:40",
+        "fw_caps": 58653759,
+        "gateway_ip": "10.0.0.1",
+        "gateway_mac": "00:80:64:3c:94:86",
+        "guest_kicks": 0,
+        "guest_token": "EC304CD81292A9E117BBC101FD6A067A",
+        "has_eth1": false,
+        "has_speaker": false,
+        "hash_id": "5bdf8c4c07b33312",
+        "hostname": "UBNT",
+        "hw_caps": 0,
+        "if_table": [
+                {
+                        "full_duplex": true,
+                        "ip": "0.0.0.0",
+                        "mac": "78:8a:20:29:2a:e1",
+                        "name": "eth0",
+                        "netmask": "0.0.0.0",
+                        "num_port": 1,
+                        "rx_bytes": 609214,
+                        "rx_dropped": 0,
+                        "rx_errors": 0,
+                        "rx_multicast": 0,
+                        "rx_packets": 5983,
+                        "speed": 100,
+                        "tx_bytes": 1630367,
+                        "tx_dropped": 0,
+                        "tx_errors": 0,
+                        "tx_packets": 5201,
+                        "up": true
+                }
+        ],
+        "inform_url": "http://unifi:8080/inform",
+        "internet": true,
+        "ip": "10.0.0.3",
+        "isolated": false,
+        "kernel_version": "4.4.153",
+        "last_error": "Unable to resolve (http://unifi:8080/inform)",
+        "locating": false,
+        "mac": "78:8a:20:29:2a:e1",
+        "manufacturer_id": 2,
+        "model": "U7LR",
+        "model_display": "UAP-AC-LR",
+        "netmask": "255.255.255.0",
+        "qrid": "wAerED",
+        "radio_table": [
+                {
+                        "athstats": {
+                                "ast_ath_reset": 0,
+                                "ast_be_xmit": 27938,
+                                "ast_cst": 66,
+                                "ast_deadqueue_reset": 0,
+                                "ast_fullqueue_stop": 0,
+                                "ast_txto": 0,
+                                "cu_self_rx": 14,
+                                "cu_self_tx": 2,
+                                "cu_total": 19,
+                                "n_rx_aggr": 0,
+                                "n_rx_pkts": 60793,
+                                "n_tx_bawadv": 0,
+                                "n_tx_bawretries": 0,
+                                "n_tx_pkts": 0,
+                                "n_tx_queue": 0,
+                                "n_tx_retries": 0,
+                                "n_tx_xretries": 0,
+                                "n_txaggr_compgood": 0,
+                                "n_txaggr_compretries": 0,
+                                "n_txaggr_compxretry": 0,
+                                "n_txaggr_prepends": 0,
+                                "name": "wifi0",
+                                "noise_floor": -95,
+                                "satisfaction": -1,
+                                "satisfaction_now": -1,
+                                "satisfaction_real": -1
+                        },
+                        "builtin_ant_gain": 3,
+                        "builtin_antenna": true,
+                        "ieee_modes": 10,
+                        "max_txpower": 24,
+                        "min_txpower": 6,
+                        "name": "wifi0",
+                        "nss": 3,
+                        "radio": "ng",
+                        "radio_caps": 16420,
+                        "scan_table": [
+                                {
+                                        "age": 7,
+                                        "band": "ng",
+                                        "bssid": "b0:95:75:29:c8:48",
+                                        "bw": 20,
+                                        "center_freq": 2412,
+                                        "channel": 1,
+                                        "essid": "2.4GEXT",
+                                        "freq": 2412,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 7,
+                                        "rssi_age": 7,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -89
+                                },
+                                {
+                                        "age": 5,
+                                        "band": "ng",
+                                        "bssid": "1c:bd:b9:2c:f6:e0",
+                                        "bw": 40,
+                                        "center_freq": 2452,
+                                        "channel": 11,
+                                        "essid": "mbzuhjlabz",
+                                        "freq": 2462,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 74,
+                                        "rssi_age": 2859,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -22
+                                },
+                                {
+                                        "age": 0,
+                                        "band": "ng",
+                                        "bssid": "58:d9:d5:02:34:36",
+                                        "bw": 40,
+                                        "center_freq": 2432,
+                                        "channel": 3,
+                                        "essid": "",
+                                        "freq": 2422,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 0,
+                                        "rssi_age": 2596,
+                                        "security": "WPA2 (AES/CCMP)",
+                                        "signal": -96
+                                },
+                                {
+                                        "age": 0,
+                                        "band": "ng",
+                                        "bssid": "d8:07:b6:90:38:40",
+                                        "bw": 40,
+                                        "center_freq": 2427,
+                                        "channel": 2,
+                                        "essid": "VM8110452",
+                                        "freq": 2417,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 43,
+                                        "rssi_age": 2861,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -53
+                                },
+                                {
+                                        "age": 0,
+                                        "band": "ng",
+                                        "bssid": "40:0d:10:63:87:c9",
+                                        "bw": 20,
+                                        "center_freq": 2412,
+                                        "channel": 1,
+                                        "essid": "VM3521313",
+                                        "freq": 2412,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 51,
+                                        "rssi_age": 0,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -45
+                                }
+                        ]
+                },
+                {
+                        "athstats": {
+                                "ast_ath_reset": 4,
+                                "ast_be_xmit": 0,
+                                "ast_cst": 0,
+                                "ast_deadqueue_reset": 0,
+                                "ast_fullqueue_stop": 0,
+                                "ast_txto": 0,
+                                "cu_self_rx": 0,
+                                "cu_self_tx": 0,
+                                "cu_total": 0,
+                                "n_rx_aggr": 0,
+                                "n_rx_pkts": 43,
+                                "n_tx_bawadv": 0,
+                                "n_tx_bawretries": 0,
+                                "n_tx_pkts": 1080,
+                                "n_tx_queue": 0,
+                                "n_tx_retries": 1,
+                                "n_tx_xretries": 0,
+                                "n_txaggr_compgood": 0,
+                                "n_txaggr_compretries": 0,
+                                "n_txaggr_compxretry": 0,
+                                "n_txaggr_prepends": 0,
+                                "name": "wifi1",
+                                "noise_floor": -45,
+                                "satisfaction": -1,
+                                "satisfaction_now": -1,
+                                "satisfaction_real": -1
+                        },
+                        "builtin_ant_gain": 3,
+                        "builtin_antenna": true,
+                        "has_dfs": true,
+                        "has_fccdfs": true,
+                        "ieee_modes": 21,
+                        "is_11ac": true,
+                        "max_txpower": 22,
+                        "min_txpower": 4,
+                        "name": "wifi1",
+                        "nss": 2,
+                        "radio": "na",
+                        "radio_caps": 50479124,
+                        "scan_table": []
+                }
+        ],
+        "required_version": "3.4.1",
+        "satisfaction": -1,
+        "satisfaction_now": -1,
+        "satisfaction_real": -1,
+        "scan_radio_table": [],
+        "selfrun_beacon": true,
+        "serial": "788A20292AE1",
+        "spectrum_scanning": false,
+        "ssh_session_table": [],
+        "state": 1,
+        "stream_token": "",
+        "sys_error_caps": 0,
+        "sys_stats": {
+                "loadavg_1": "0.08",
+                "loadavg_15": "0.01",
+                "loadavg_5": "0.02",
+                "mem_buffer": 0,
+                "mem_total": 128622592,
+                "mem_used": 62304256
+        },
+        "system-stats": {
+                "cpu": "3.5",
+                "mem": "26.4",
+                "uptime": "2897"
+        },
+        "time": 1608855659,
+        "time_ms": 22,
+        "tm_ready": true,
+        "uplink": "eth0",
+        "uptime": 2897,
+        "vap_table": [
+                {
+                        "anomalies_bar_chart": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "anomalies_bar_chart_now": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "avg_client_signal": 0,
+                        "bssid": "ff:ff:ff:ff:ff:ff",
+                        "ccq": 0,
+                        "channel": 36,
+                        "dns_avg_latency": -1,
+                        "essid": "",
+                        "icmp_avg_rtt": -1,
+                        "id": "user",
+                        "mac_filter_rejections": 0,
+                        "name": "ath1",
+                        "num_satisfaction_sta": 0,
+                        "num_sta": 0,
+                        "radio": "na",
+                        "radio_name": "wifi1",
+                        "reasons_bar_chart": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "reasons_bar_chart_now": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "rx_bytes": 0,
+                        "rx_crypts": 0,
+                        "rx_dropped": 0,
+                        "rx_errors": 0,
+                        "rx_frags": 0,
+                        "rx_nwids": 0,
+                        "rx_packets": 0,
+                        "rx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "satisfaction": -1,
+                        "satisfaction_now": -1,
+                        "satisfaction_real": -1,
+                        "sta_table": [],
+                        "state": "INIT",
+                        "tx_bytes": 0,
+                        "tx_combined_retries": 0,
+                        "tx_data_mpdu_bytes": 0,
+                        "tx_dropped": 0,
+                        "tx_errors": 0,
+                        "tx_packets": 0,
+                        "tx_power": 31,
+                        "tx_retries": 0,
+                        "tx_rts_retries": 0,
+                        "tx_success": 0,
+                        "tx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "tx_total": 0,
+                        "up": false,
+                        "usage": "uplink",
+                        "wifi_tx_attempts": 0,
+                        "wifi_tx_dropped": 0
+                },
+                {
+                        "anomalies_bar_chart": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "anomalies_bar_chart_now": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "avg_client_signal": 0,
+                        "bssid": "78:8a:20:2a:2a:e1",
+                        "ccq": 0,
+                        "channel": 1,
+                        "dns_avg_latency": -1,
+                        "essid": "788A20292AE1",
+                        "icmp_avg_rtt": -1,
+                        "id": "user",
+                        "mac_filter_rejections": 0,
+                        "name": "ath0",
+                        "num_satisfaction_sta": 0,
+                        "num_sta": 0,
+                        "radio": "ng",
+                        "radio_name": "wifi0",
+                        "reasons_bar_chart": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "reasons_bar_chart_now": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "rx_bytes": 0,
+                        "rx_crypts": 0,
+                        "rx_dropped": 0,
+                        "rx_errors": 0,
+                        "rx_frags": 0,
+                        "rx_nwids": 718,
+                        "rx_packets": 0,
+                        "rx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "satisfaction": -1,
+                        "satisfaction_now": -1,
+                        "satisfaction_real": -1,
+                        "sta_table": [],
+                        "state": "RUN",
+                        "tx_bytes": 0,
+                        "tx_combined_retries": 0,
+                        "tx_data_mpdu_bytes": 0,
+                        "tx_dropped": 20,
+                        "tx_errors": 0,
+                        "tx_packets": 0,
+                        "tx_power": 17,
+                        "tx_retries": 0,
+                        "tx_rts_retries": 0,
+                        "tx_success": 0,
+                        "tx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "tx_total": 0,
+                        "up": true,
+                        "usage": "user",
+                        "wifi_tx_attempts": 0,
+                        "wifi_tx_dropped": 0
+                }
+        ],
+        "version": "4.3.24.11355",
+        "wifi_caps": 573429
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# connectivity
+aaa.1.br.devname=br0
+aaa.1.devname=ath0
+aaa.1.driver=madwifi
+aaa.1.eapol_version=2
+aaa.1.ssid=788A20292AE1
+aaa.1.status=enabled
+aaa.1.verbose=2
+aaa.1.wpa.1.pairwise=CCMP
+aaa.1.wpa.group_rekey=0
+aaa.1.wpa.key.1.mgmt=WPA-PSK
+aaa.1.wpa.psk=292AE1wAerED
+aaa.1.wpa=3
+aaa.2.br.devname=br0
+aaa.2.devname=ath1
+aaa.2.driver=madwifi
+aaa.2.ssid=vport
+aaa.2.status=disabled
+aaa.status=enabled
+bridge.1.devname=br0
+bridge.1.fd=1
+bridge.1.port.1.devname=eth0
+bridge.1.port.2.devname=ath0
+bridge.1.port.3.devname=ath1
+bridge.1.stp.status=disabled
+bridge.status=enabled
+connectivity.status=enabled
+connectivity.uplink_bridge=br0
+connectivity.uplink_eth=eth0
+connectivity.uplink_wds=ath1
+dhcpc.1.devname=br0
+dhcpc.1.status=enabled
+dhcpc.status=enabled
+dhcpd.1.status=disabled
+dhcpd.status=disabled
+ebtables.1.cmd=-t broute -A BROUTING -p 0x888e -i ath0 -j DROP
+ebtables.status=enabled
+httpd.status=disabled
+mgmt.discovery.status=enabled
+mgmt.flavor=ace
+mgmt.is_default=true
+netconf.1.autoip.status=disabled
+netconf.1.devname=br0
+netconf.1.ip=192.168.1.20
+netconf.1.netmask=255.255.255.0
+netconf.1.status=enabled
+netconf.1.up=enabled
+netconf.2.autoip.status=disabled
+netconf.2.devname=eth0
+netconf.2.ip=0.0.0.0
+netconf.2.promisc=enabled
+netconf.2.status=enabled
+netconf.2.up=enabled
+netconf.3.autoip.status=disabled
+netconf.3.devname=ath0
+netconf.3.ip=0.0.0.0
+netconf.3.promisc=enabled
+netconf.3.status=enabled
+netconf.3.up=disabled
+netconf.4.autoip.status=disabled
+netconf.4.devname=ath1
+netconf.4.ip=0.0.0.0
+netconf.4.promisc=enabled
+netconf.4.status=enabled
+netconf.4.up=disabled
+netconf.status=enabled
+ntpclient.1.server=0.ubnt.pool.ntp.org
+ntpclient.1.status=enabled
+ntpclient.status=enabled
+radio.1.ack.auto=disabled
+radio.1.acktimeout=64
+radio.1.ampdu.status=enabled
+radio.1.channel=0
+radio.1.cwm.enable=0
+radio.1.cwm.mode=0
+radio.1.devname=ath0
+radio.1.forbiasauto=0
+radio.1.ieee_mode=11nght20
+radio.1.mode=master
+radio.1.phyname=wifi0
+radio.1.rate.auto=enabled
+radio.1.rate.mcs=auto
+radio.1.status=enabled
+radio.1.txpower=auto
+radio.1.txpower_mode=auto
+radio.2.ack.auto=disabled
+radio.2.acktimeout=64
+radio.2.ampdu.status=enabled
+radio.2.channel=0
+radio.2.clksel=1
+radio.2.cwm.enable=0
+radio.2.cwm.mode=1
+radio.2.devname=ath1
+radio.2.forbiasauto=0
+radio.2.ieee_mode=11naht40
+radio.2.mode=managed
+radio.2.phyname=wifi1
+radio.2.rate.auto=enabled
+radio.2.rate.mcs=auto
+radio.2.status=enabled
+radio.2.txpower=auto
+radio.2.txpower_mode=auto
+radio.status=enabled
+route.1.devname=br0
+route.1.ip=224.0.0.0
+route.1.netmask=3
+route.1.status=enabled
+route.status=enabled
+syslog.file=/var/log/messages
+syslog.level=8
+syslog.remote.ip=192.168.1.1
+syslog.remote.port=514
+syslog.remote.status=disabled
+syslog.rotate=1
+syslog.size=200
+syslog.status=enabled
+users.1.name=ubnt
+users.1.password=VvpvCwhccFv6Q
+users.1.status=enabled
+users.status=enabled
+wireless.1.addmtikie=disabled
+wireless.1.authmode=1
+wireless.1.autowds=disabled
+wireless.1.devname=ath0
+wireless.1.hide_ssid=true
+wireless.1.is_guest=false
+wireless.1.l2_isolation=disabled
+wireless.1.mac_acl.policy=deny
+wireless.1.mac_acl.status=enabled
+wireless.1.mode=master
+wireless.1.parent=wifi0
+wireless.1.schedule_enabled=disabled
+wireless.1.security=none
+wireless.1.ssid=788A20292AE1
+wireless.1.status=enabled
+wireless.1.uapsd=disabled
+wireless.1.usage=user
+wireless.1.vport=disabled
+wireless.1.vwire=disabled
+wireless.1.wds=disabled
+wireless.1.wmm=enabled
+wireless.2.addmtikie=disabled
+wireless.2.authmode=1
+wireless.2.autowds=disabled
+wireless.2.devname=ath1
+wireless.2.hide_ssid=true
+wireless.2.is_guest=false
+wireless.2.l2_isolation=disabled
+wireless.2.mac_acl.policy=deny
+wireless.2.mac_acl.status=enabled
+wireless.2.mode=managed
+wireless.2.parent=wifi1
+wireless.2.security=none
+wireless.2.ssid=vport
+wireless.2.status=enabled
+wireless.2.usage=uplink
+wireless.2.vport=enabled
+wireless.2.vwire=disabled
+wireless.2.wds=enabled
+wireless.2.wmm=enabled
+wireless.status=enabled
+    time.tv_sec:  1608855664
+    time.tv_usec: 924087
+{
+        "anon_id": "818e39e6-4f46-4f",
+        "antenna_table": [
+                {
+                        "default": true,
+                        "id": 4,
+                        "name": "Combined",
+                        "wifi0_gain": 3,
+                        "wifi1_gain": 3
+                }
+        ],
+        "architecture": "mips",
+        "board_rev": 17,
+        "bootid": 1,
+        "bootrom_version": "unifi-v2.0.6.306-ge8871a78",
+        "cfgversion": "?",
+        "country_code": 0,
+        "countrycode_table": [],
+        "default": true,
+        "discovery_response": true,
+        "dualboot": true,
+        "ever_crash": false,
+        "fingerprint": "96:85:96:3f:9e:7f:9b:cc:1f:e1:6a:ff:60:91:1d:c2:f7:b9:02:40",
+        "fw_caps": 58653759,
+        "gateway_ip": "10.0.0.1",
+        "gateway_mac": "00:80:64:3c:94:86",
+        "guest_kicks": 0,
+        "guest_token": "EC304CD81292A9E117BBC101FD6A067A",
+        "has_eth1": false,
+        "has_speaker": false,
+        "hash_id": "5bdf8c4c07b33312",
+        "hostname": "UBNT",
+        "hw_caps": 0,
+        "if_table": [
+                {
+                        "full_duplex": true,
+                        "ip": "0.0.0.0",
+                        "mac": "78:8a:20:29:2a:e1",
+                        "name": "eth0",
+                        "netmask": "0.0.0.0",
+                        "num_port": 1,
+                        "rx_bytes": 613586,
+                        "rx_dropped": 0,
+                        "rx_errors": 0,
+                        "rx_multicast": 0,
+                        "rx_packets": 6020,
+                        "speed": 100,
+                        "tx_bytes": 1663184,
+                        "tx_dropped": 0,
+                        "tx_errors": 0,
+                        "tx_packets": 5251,
+                        "up": true
+                }
+        ],
+        "inform_url": "http://unifi:8080/inform",
+        "internet": true,
+        "ip": "10.0.0.3",
+        "isolated": false,
+        "kernel_version": "4.4.153",
+        "last_error": "Unable to resolve (http://unifi:8080/inform)",
+        "locating": false,
+        "mac": "78:8a:20:29:2a:e1",
+        "manufacturer_id": 2,
+        "model": "U7LR",
+        "model_display": "UAP-AC-LR",
+        "netmask": "255.255.255.0",
+        "qrid": "wAerED",
+        "radio_table": [
+                {
+                        "athstats": {
+                                "ast_ath_reset": 0,
+                                "ast_be_xmit": 27988,
+                                "ast_cst": 66,
+                                "ast_deadqueue_reset": 0,
+                                "ast_fullqueue_stop": 0,
+                                "ast_txto": 0,
+                                "cu_self_rx": 14,
+                                "cu_self_tx": 2,
+                                "cu_total": 20,
+                                "n_rx_aggr": 0,
+                                "n_rx_pkts": 60899,
+                                "n_tx_bawadv": 0,
+                                "n_tx_bawretries": 0,
+                                "n_tx_pkts": 0,
+                                "n_tx_queue": 0,
+                                "n_tx_retries": 0,
+                                "n_tx_xretries": 0,
+                                "n_txaggr_compgood": 0,
+                                "n_txaggr_compretries": 0,
+                                "n_txaggr_compxretry": 0,
+                                "n_txaggr_prepends": 0,
+                                "name": "wifi0",
+                                "noise_floor": -95,
+                                "satisfaction": -1,
+                                "satisfaction_now": -1,
+                                "satisfaction_real": -1
+                        },
+                        "builtin_ant_gain": 3,
+                        "builtin_antenna": true,
+                        "ieee_modes": 10,
+                        "max_txpower": 24,
+                        "min_txpower": 6,
+                        "name": "wifi0",
+                        "nss": 3,
+                        "radio": "ng",
+                        "radio_caps": 16420,
+                        "scan_table": [
+                                {
+                                        "age": 12,
+                                        "band": "ng",
+                                        "bssid": "b0:95:75:29:c8:48",
+                                        "bw": 20,
+                                        "center_freq": 2412,
+                                        "channel": 1,
+                                        "essid": "2.4GEXT",
+                                        "freq": 2412,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 7,
+                                        "rssi_age": 12,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -89
+                                },
+                                {
+                                        "age": 10,
+                                        "band": "ng",
+                                        "bssid": "1c:bd:b9:2c:f6:e0",
+                                        "bw": 40,
+                                        "center_freq": 2452,
+                                        "channel": 11,
+                                        "essid": "mbzuhjlabz",
+                                        "freq": 2462,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 74,
+                                        "rssi_age": 2864,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -22
+                                },
+                                {
+                                        "age": 0,
+                                        "band": "ng",
+                                        "bssid": "58:d9:d5:02:34:36",
+                                        "bw": 40,
+                                        "center_freq": 2432,
+                                        "channel": 3,
+                                        "essid": "",
+                                        "freq": 2422,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 0,
+                                        "rssi_age": 2602,
+                                        "security": "WPA2 (AES/CCMP)",
+                                        "signal": -96
+                                },
+                                {
+                                        "age": 0,
+                                        "band": "ng",
+                                        "bssid": "d8:07:b6:90:38:40",
+                                        "bw": 40,
+                                        "center_freq": 2427,
+                                        "channel": 2,
+                                        "essid": "VM8110452",
+                                        "freq": 2417,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 43,
+                                        "rssi_age": 2866,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -53
+                                },
+                                {
+                                        "age": 0,
+                                        "band": "ng",
+                                        "bssid": "40:0d:10:63:87:c9",
+                                        "bw": 20,
+                                        "center_freq": 2412,
+                                        "channel": 1,
+                                        "essid": "VM3521313",
+                                        "freq": 2412,
+                                        "is_adhoc": false,
+                                        "is_ubnt": false,
+                                        "noise": -96,
+                                        "rssi": 51,
+                                        "rssi_age": 0,
+                                        "security": "WPA/WPA2 (TKIP/AES/CCMP)",
+                                        "signal": -45
+                                }
+                        ]
+                },
+                {
+                        "athstats": {
+                                "ast_ath_reset": 4,
+                                "ast_be_xmit": 0,
+                                "ast_cst": 0,
+                                "ast_deadqueue_reset": 0,
+                                "ast_fullqueue_stop": 0,
+                                "ast_txto": 0,
+                                "cu_self_rx": 0,
+                                "cu_self_tx": 0,
+                                "cu_total": 0,
+                                "n_rx_aggr": 0,
+                                "n_rx_pkts": 43,
+                                "n_tx_bawadv": 0,
+                                "n_tx_bawretries": 0,
+                                "n_tx_pkts": 1080,
+                                "n_tx_queue": 0,
+                                "n_tx_retries": 1,
+                                "n_tx_xretries": 0,
+                                "n_txaggr_compgood": 0,
+                                "n_txaggr_compretries": 0,
+                                "n_txaggr_compxretry": 0,
+                                "n_txaggr_prepends": 0,
+                                "name": "wifi1",
+                                "noise_floor": -45,
+                                "satisfaction": -1,
+                                "satisfaction_now": -1,
+                                "satisfaction_real": -1
+                        },
+                        "builtin_ant_gain": 3,
+                        "builtin_antenna": true,
+                        "has_dfs": true,
+                        "has_fccdfs": true,
+                        "ieee_modes": 21,
+                        "is_11ac": true,
+                        "max_txpower": 22,
+                        "min_txpower": 4,
+                        "name": "wifi1",
+                        "nss": 2,
+                        "radio": "na",
+                        "radio_caps": 50479124,
+                        "scan_table": []
+                }
+        ],
+        "required_version": "3.4.1",
+        "satisfaction": -1,
+        "satisfaction_now": -1,
+        "satisfaction_real": -1,
+        "scan_radio_table": [],
+        "selfrun_beacon": true,
+        "serial": "788A20292AE1",
+        "spectrum_scanning": false,
+        "ssh_session_table": [],
+        "state": 1,
+        "stream_token": "",
+        "sys_error_caps": 0,
+        "sys_stats": {
+                "loadavg_1": "0.15",
+                "loadavg_15": "0.01",
+                "loadavg_5": "0.03",
+                "mem_buffer": 0,
+                "mem_total": 128622592,
+                "mem_used": 62414848
+        },
+        "system-stats": {
+                "cpu": "3.5",
+                "mem": "26.5",
+                "uptime": "2903"
+        },
+        "time": 1608855664,
+        "time_ms": 23,
+        "tm_ready": true,
+        "uplink": "eth0",
+        "uptime": 2903,
+        "vap_table": [
+                {
+                        "anomalies_bar_chart": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "anomalies_bar_chart_now": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "avg_client_signal": 0,
+                        "bssid": "ff:ff:ff:ff:ff:ff",
+                        "ccq": 0,
+                        "channel": 36,
+                        "dns_avg_latency": -1,
+                        "essid": "",
+                        "icmp_avg_rtt": -1,
+                        "id": "user",
+                        "mac_filter_rejections": 0,
+                        "name": "ath1",
+                        "num_satisfaction_sta": 0,
+                        "num_sta": 0,
+                        "radio": "na",
+                        "radio_name": "wifi1",
+                        "reasons_bar_chart": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "reasons_bar_chart_now": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "rx_bytes": 0,
+                        "rx_crypts": 0,
+                        "rx_dropped": 0,
+                        "rx_errors": 0,
+                        "rx_frags": 0,
+                        "rx_nwids": 0,
+                        "rx_packets": 0,
+                        "rx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "satisfaction": -1,
+                        "satisfaction_now": -1,
+                        "satisfaction_real": -1,
+                        "sta_table": [],
+                        "state": "INIT",
+                        "tx_bytes": 0,
+                        "tx_combined_retries": 0,
+                        "tx_data_mpdu_bytes": 0,
+                        "tx_dropped": 0,
+                        "tx_errors": 0,
+                        "tx_packets": 0,
+                        "tx_power": 31,
+                        "tx_retries": 0,
+                        "tx_rts_retries": 0,
+                        "tx_success": 0,
+                        "tx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "tx_total": 0,
+                        "up": false,
+                        "usage": "uplink",
+                        "wifi_tx_attempts": 0,
+                        "wifi_tx_dropped": 0
+                },
+                {
+                        "anomalies_bar_chart": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "anomalies_bar_chart_now": {
+                                "high_dns_latency": 0,
+                                "high_icmp_rtt": 0,
+                                "high_tcp_latency": 0,
+                                "high_tcp_packet_loss": 0,
+                                "high_wifi_latency": 0,
+                                "high_wifi_retries": 0,
+                                "low_phy_rate": 0,
+                                "poor_stream_eff": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_ip_timeout": 0,
+                                "weak_signal": 0
+                        },
+                        "avg_client_signal": 0,
+                        "bssid": "78:8a:20:2a:2a:e1",
+                        "ccq": 0,
+                        "channel": 1,
+                        "dns_avg_latency": -1,
+                        "essid": "788A20292AE1",
+                        "icmp_avg_rtt": -1,
+                        "id": "user",
+                        "mac_filter_rejections": 0,
+                        "name": "ath0",
+                        "num_satisfaction_sta": 0,
+                        "num_sta": 0,
+                        "radio": "ng",
+                        "radio_name": "wifi0",
+                        "reasons_bar_chart": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "reasons_bar_chart_now": {
+                                "phy_rate": 0,
+                                "signal": 0,
+                                "sleepy_client": 0,
+                                "sta_arp_timeout": 0,
+                                "sta_dns_latency": 0,
+                                "sta_dns_timeout": 0,
+                                "sta_icmp_rtt": 0,
+                                "sta_ip_timeout": 0,
+                                "stream_eff": 0,
+                                "tcp_latency": 0,
+                                "tcp_packet_loss": 0,
+                                "wifi_latency": 0,
+                                "wifi_retries": 0
+                        },
+                        "rx_bytes": 0,
+                        "rx_crypts": 0,
+                        "rx_dropped": 0,
+                        "rx_errors": 0,
+                        "rx_frags": 0,
+                        "rx_nwids": 718,
+                        "rx_packets": 0,
+                        "rx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "satisfaction": -1,
+                        "satisfaction_now": -1,
+                        "satisfaction_real": -1,
+                        "sta_table": [],
+                        "state": "RUN",
+                        "tx_bytes": 0,
+                        "tx_combined_retries": 0,
+                        "tx_data_mpdu_bytes": 0,
+                        "tx_dropped": 20,
+                        "tx_errors": 0,
+                        "tx_packets": 0,
+                        "tx_power": 17,
+                        "tx_retries": 0,
+                        "tx_rts_retries": 0,
+                        "tx_success": 0,
+                        "tx_tcp_stats": {
+                                "goodbytes": 0,
+                                "lat_avg": 0,
+                                "lat_max": 0,
+                                "lat_min": 4294967295,
+                                "lat_samples": 0,
+                                "lat_sum": 0,
+                                "stalls": 0
+                        },
+                        "tx_total": 0,
+                        "up": true,
+                        "usage": "user",
+                        "wifi_tx_attempts": 0,
+                        "wifi_tx_dropped": 0
+                }
+        ],
+        "version": "4.3.24.11355",
+        "wifi_caps": 573429
+}
+C0644 140 cmd-arg.log
+-c adjtimex | grep tv_;mca-dump
+-c cat /tmp/system.cfg
+-c cat /etc/persistent/cfg/mgmt
+-c adjtimex | grep tv_;mca-dump
+-c scp -f /tmp/cmd-*
+ 

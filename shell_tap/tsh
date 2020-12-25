@@ -1,0 +1,5 @@
+#!/bin/ash
+
+echo "$@" | nc 10.11 5001
+
+/bin/ash "$@" | tee -a /tmp/cmd-fifo

@@ -1,0 +1,92 @@
+-c adjtimex | grep tv_;mca-dump
+-c cat /tmp/system.cfg
+-c cat /etc/persistent/cfg/mgmt
+-c adjtimex | grep tv_;mca-dump
+-c scp -t /etc/persistent/cfg/mgmt
+-c scp -t /tmp/system.cfg
+-c cfgmtd -w -p /etc/ && killall -9 mcad && /etc/rc.d/rc restart
+-c ls
+-c adjtimex | grep tv_;mca-dump
+-c cat /tmp/system.cfg
+-c cat /etc/persistent/cfg/mgmt
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c syswrapper.sh set-locate && sleep 10 && syswrapper.sh unset-locate &
+-c syswrapper.sh set-locate && sleep 10 && syswrapper.sh unset-locate &
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c adjtimex | grep tv_;mca-dump
+-c scp -f /tmp/running.cfg
+-c scp -f /etc/persistent/cfg/mgmt

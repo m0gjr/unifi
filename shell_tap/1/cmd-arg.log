@@ -1,0 +1,5 @@
+-c adjtimex | grep tv_;mca-dump
+-c cat /tmp/system.cfg
+-c cat /etc/persistent/cfg/mgmt
+-c adjtimex | grep tv_;mca-dump
+-c scp -f /tmp/cmd-*

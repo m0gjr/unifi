@@ -1,0 +1,6 @@
+mgmt.is_default=false
+mgmt.led_enabled=false
+mgmt.cfgversion=63b505a1c328fd9c
+mgmt.authkey=<<AUTHKEY>>
+mgmt.selfrun_guest_mode=pass
+mgmt.capability=notif

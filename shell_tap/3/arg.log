@@ -1,0 +1,4 @@
+-c adjtimex | grep tv_;mca-dump
+-c scp -t /etc/persistent/cfg/mgmt
+-c scp -t /tmp/system.cfg
+-c cfgmtd -w -p /etc/ && killall -9 mcad && /etc/rc.d/rc restart
